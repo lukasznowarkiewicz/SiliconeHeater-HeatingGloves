@@ -1,0 +1,345 @@
+*************************************************************
+FileName = flexible-hand-warmer-left.GBR
+AutoAperture = True
+*************************************************************
+Generating : F.Cu
+      File : flexible-hand-warmer-left_Copper_Signal_Top.gbr
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : F.Mask
+      File : flexible-hand-warmer-left_Copper_Signal_1.gbr
+
+    Adding Layer      : F.Mask
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : B.Cu
+      File : flexible-hand-warmer-left_Copper_Signal_2.gbr
+
+    Adding Layer      : B.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : B.Mask
+      File : flexible-hand-warmer-left_Copper_Signal_3.gbr
+
+    Adding Layer      : B.Mask
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : F.SilkS
+      File : flexible-hand-warmer-left_Copper_Signal_4.gbr
+
+    Adding Layer      : F.SilkS
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : B.SilkS
+      File : flexible-hand-warmer-left_Copper_Signal_5.gbr
+
+    Adding Layer      : B.SilkS
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : F.Adhes
+      File : flexible-hand-warmer-left_Copper_Signal_6.gbr
+
+    Adding Layer      : F.Adhes
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : B.Adhes
+      File : flexible-hand-warmer-left_Copper_Signal_7.gbr
+
+    Adding Layer      : B.Adhes
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : F.Paste
+      File : flexible-hand-warmer-left_Copper_Signal_8.gbr
+
+    Adding Layer      : F.Paste
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : B.Paste
+      File : flexible-hand-warmer-left_Copper_Signal_9.gbr
+
+    Adding Layer      : B.Paste
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Dwgs.User
+      File : flexible-hand-warmer-left_Copper_Signal_10.gbr
+
+    Adding Layer      : Dwgs.User
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Cmts.User
+      File : flexible-hand-warmer-left_Copper_Signal_11.gbr
+
+    Adding Layer      : Cmts.User
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Eco1.User
+      File : flexible-hand-warmer-left_Copper_Signal_12.gbr
+
+    Adding Layer      : Eco1.User
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Eco2.User
+      File : flexible-hand-warmer-left_Copper_Signal_13.gbr
+
+    Adding Layer      : Eco2.User
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Edge.Cuts
+      File : flexible-hand-warmer-left_Copper_Signal_14.gbr
+
+    Adding Layer      : Edge.Cuts
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Margin
+      File : flexible-hand-warmer-left_Copper_Signal_15.gbr
+
+    Adding Layer      : Margin
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : B.CrtYd
+      File : flexible-hand-warmer-left_Copper_Signal_16.gbr
+
+    Adding Layer      : B.CrtYd
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : F.CrtYd
+      File : flexible-hand-warmer-left_Copper_Signal_Bot.gbr
+
+    Adding Layer      : F.CrtYd
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : flexible-hand-warmer-left_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : flexible-hand-warmer-left_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : flexible-hand-warmer-left_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : flexible-hand-warmer-left_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : F.CrtYd
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : flexible-hand-warmer-left_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : F.Cu
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : flexible-hand-warmer-left_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : F.CrtYd
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : flexible-hand-warmer-left_Profile.gbr
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : flexible-hand-warmer-left_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : flexible-hand-warmer-left_PTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+

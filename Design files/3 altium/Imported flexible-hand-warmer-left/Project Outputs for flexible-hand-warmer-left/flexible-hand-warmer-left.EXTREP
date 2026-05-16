@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: flexible-hand-warmer-left.GBR   16.04.2026  08:15:40
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                F.Cu                                    
+.gbr                F.Mask                                  
+.gbr                B.Cu                                    
+.gbr                B.Mask                                  
+.gbr                F.SilkS                                 
+.gbr                B.SilkS                                 
+.gbr                F.Adhes                                 
+.gbr                B.Adhes                                 
+.gbr                F.Paste                                 
+.gbr                B.Paste                                 
+.gbr                Dwgs.User                               
+.gbr                Cmts.User                               
+.gbr                Eco1.User                               
+.gbr                Eco2.User                               
+.gbr                Edge.Cuts                               
+.gbr                Margin                                  
+.gbr                B.CrtYd                                 
+.gbr                F.CrtYd                                 
+.gbr                Top Overlay                             
+.gbr                Bottom Overlay                          
+.gbr                Top Solder                              
+.gbr                Bottom Solder                           
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+------------------------------------------------------------------------------------------

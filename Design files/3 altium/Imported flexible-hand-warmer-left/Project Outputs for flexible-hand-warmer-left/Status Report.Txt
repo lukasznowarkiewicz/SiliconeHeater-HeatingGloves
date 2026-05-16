@@ -1,0 +1,38 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [flexible-hand-warmer-left.PrjPcb]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_Top.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_1.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_2.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_3.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_4.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_5.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_6.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_7.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_8.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_9.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_10.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_11.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_12.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_13.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_14.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_15.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_16.gbr]
+   Generated File[flexible-hand-warmer-left_Copper_Signal_Bot.gbr]
+   Generated File[flexible-hand-warmer-left_Legend_Top.gbr]
+   Generated File[flexible-hand-warmer-left_Legend_Bot.gbr]
+   Generated File[flexible-hand-warmer-left_Soldermask_Top.gbr]
+   Generated File[flexible-hand-warmer-left_Soldermask_Bot.gbr]
+   Generated File[flexible-hand-warmer-left_Paste_Top.gbr]
+   Generated File[flexible-hand-warmer-left_Paste_Bot.gbr]
+   Generated File[flexible-hand-warmer-left_Profile.gbr]
+   Generated File[flexible-hand-warmer-left_NPTH_Drill.gbr]
+   Generated File[flexible-hand-warmer-left_PTH_Drill.gbr]
+   Generated File[flexible-hand-warmer-left.EXTREP]
+   Generated File[flexible-hand-warmer-left.REP]
+
+
+Files Generated   : 29
+Documents Printed : 0
+
+Finished Output Generation At 08:15:48 On 16.04.2026
